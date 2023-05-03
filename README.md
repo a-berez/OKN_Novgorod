@@ -29,5 +29,5 @@
 
 
 ## Предупреждение
-Так как в рамках работы использовался Google Colaboratory, для запуска [блокнота](https://github.com/a-berez/OKN_Novgorod/blob/main/VelN_OKN.ipynb) необходимо загрузить папку с данными на Google Drive или изменить код.
+Так как в рамках работы использовался Google Colaboratory, для работы с [кодом](https://github.com/a-berez/OKN_Novgorod/blob/main/VelN_OKN.ipynb) необходимо загрузить папку с данными на Google Drive или изменить код в строках, связанных с загрузкой или скачиванием файлов.
 Просматривать блокнот без запуска можно [тут](https://github.com/a-berez/OKN_Novgorod/blob/main/VelN_OKN.ipynb)
